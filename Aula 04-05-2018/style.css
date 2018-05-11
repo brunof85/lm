@@ -32,7 +32,8 @@ body {
     text-align: center;
     width: 12%;
     margin: .2%;
-    padding: 1rem; 
+    padding: 1rem;
+    background-color: white; 
            
   }
 
