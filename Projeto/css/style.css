@@ -82,6 +82,12 @@ nav ul a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 5rem;
+}
+
+.offer-title {
+    margin-bottom: 4rem;
+    font-size: 3rem;
 }
 
 .cards {
